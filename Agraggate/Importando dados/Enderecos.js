@@ -1,0 +1,1 @@
+db.Endereco.renameCollection("Enderecos")

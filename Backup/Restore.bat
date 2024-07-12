@@ -1,0 +1,1 @@
+mongorestore --db=vendas F:\MongoDB\Data\Vendas
